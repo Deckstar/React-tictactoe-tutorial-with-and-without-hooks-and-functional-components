@@ -4,6 +4,10 @@ It's really nothing special.
 
 But if you're confused on how React works, and how the "New" style works, then it might be useful to compare the two.
 
+Both files are imported in App.js. The final file for the "Old" way is in GameOldWay.js, and this is what's given as the official solution as of 6th October 2019. The "New" way is in GameNewWay.js.
+
+To quickstart, just make the "react-playing" folder the current directory in Terminal, then run "npm start".
+
 Good luck!
 
 What follows below is just the automatic markdown from creating a new React app.
