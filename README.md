@@ -1,3 +1,19 @@
+# This is just the official basic React tutorial, except with the "New" way of doings things with hooks and functional components.
+
+It's really nothing special.
+
+But if you're confused on how React works, and how the "New" style works, then it might be useful to compare the two.
+
+Good luck!
+
+What follows below is just the automatic markdown from creating a new React app.
+
+########################################
+########################################
+########################################
+########################################
+########################################
+########################################
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
